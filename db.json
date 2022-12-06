@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Apppinment",
+      "day": "Feb 5th at 2:30PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Change HV Battery",
+      "day": "Jan 8th at 2:30PM",
+      "reminder": false
+    },
+    {
+      "text": "New Documents to Sign",
+      "day": "15th December 2022 2PM",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Most Facinating Stufg",
+      "day": "Now Right Now",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
